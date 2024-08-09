@@ -57,6 +57,16 @@ Our Aim would ideally be to reduce False negatives more than False Positives, so
 
 ## Related Works
 
+In [3] we have a survey of the related works. Some of the works are listed below:
+
+Xie et al. proposes a skin lesion classification system into 2 main classes:
+
+1. Benign
+2. Malignant
+
+The approach here uses something called as self generating neural networks. What this means is the neural network is generated automatically based on evaluation functions. Actions could include adding a neuron or removing a neuron or adding or removing connections based on evaluation functions. In the next phase the authors used PCA to perform dimensional reduction. The classification layer is compose of some ensemble neural networks. With a 
+
+
 ## Work Done
 
 ### Pre-processing
